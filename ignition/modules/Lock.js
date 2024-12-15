@@ -14,5 +14,5 @@ module.exports = buildModule("LockModule", (m) => {
     value: lockedAmount,
   });
 
-  return { lock };
+  return { lock };  
 });
